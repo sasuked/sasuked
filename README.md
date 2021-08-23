@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to my Github
 
-<!--
-**sasuked/sasuked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matheus, 21 years old, an enthusiast for psychology and programming.
+You might see me contributing to Minecraft related projects.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sasuked&theme=dracula&show_icons=true&count_private=true">
+
+- Programming Languages: Java, Kotlin, Python and Rust.
+- Databases: MySQL, Cassandra, Redis and MongoDB.
+- Cloud: AWS, Heroku and Oracle Cloud
+- Frameworks: Spring, Jetpack Compose, Micronaut and Quarkus.
+
+### Where to find me
+
+[![Linked In](https://img.shields.io/badge/-mtbarreto-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtbarreto/)](https://www.linkedin.com/in/mtbarreto/)
+[![Gmail](https://img.shields.io/badge/-sasukemchc@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:sasukemchc@gmail.com)](mailto:natanvnascimento@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/DevNatan?label=follow&style=social)](https://github.com/sasuked)
