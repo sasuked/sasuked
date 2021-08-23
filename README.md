@@ -5,7 +5,7 @@ You might see me contributing to Minecraft related projects.
 
 ## Interests
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sasuked&theme=dracula&show_icons=true&count_private=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sasuked&theme=tokyonight&show_icons=true&count_private=true">
 
 - Programming Languages: Java, Kotlin, Python and Rust.
 - Databases: MySQL, Cassandra, Redis and MongoDB.
