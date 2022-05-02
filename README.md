@@ -2,7 +2,7 @@
 
 ### Welcome to my Github
 
-I'm Matheus, 21 years old, an enthusiast for psychology and programming.
+I'm Matheus, 22 years old, an enthusiast for psychology and programming.
 You might see me contributing to Minecraft related projects.
 
 ## Interests
