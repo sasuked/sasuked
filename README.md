@@ -16,7 +16,7 @@ You might see me contributing to Minecraft related projects.
 
 ### Where to find me
 
-[![Linked In](https://img.shields.io/badge/-mtbarreto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawbarr/)](https://www.linkedin.com/in/mtbarreto/)
+[![Linked In](https://img.shields.io/badge/-mawbarr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawbarr/)](https://www.linkedin.com/in/mawbarr/)
 [![Gmail](https://img.shields.io/badge/-sasukemchc@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mawbarr@gmail.com)](mailto:mawbarr@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/sasuked?label=follow&style=social)](https://github.com/sasuked)
 
